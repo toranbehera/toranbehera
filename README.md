@@ -2,8 +2,6 @@
 
 I'm Toran, a web dev enthusiast, football fan and gamer. I love myself a good animated show as well from time to time.
 
-In a committed relationship with React (logo)
-
 - 🌱 I’m currently learning React in an advanced level, UI/UX design, backend development, AWS, frontend systems, modern rendering strategies, and anything that strikes my interest in https://www.freecodecamp.org/news/.
 
 - 🔭 I’m currently working on a CRUD template that I can reuse for my upcomming e-commerce and Durarara-inspired chat apps, and a personal blog to share any learnings that the world needs to know about.
